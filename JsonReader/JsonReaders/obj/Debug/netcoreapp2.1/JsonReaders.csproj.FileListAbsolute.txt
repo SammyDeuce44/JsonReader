@@ -1,0 +1,16 @@
+C:\Users\samuel.babalola\Documents\Visual Studio 2017\Dev\JsonReader\JsonReaders\bin\Debug\netcoreapp2.1\JsonReaders.deps.json
+C:\Users\samuel.babalola\Documents\Visual Studio 2017\Dev\JsonReader\JsonReaders\bin\Debug\netcoreapp2.1\JsonReaders.dll
+C:\Users\samuel.babalola\Documents\Visual Studio 2017\Dev\JsonReader\JsonReaders\obj\Debug\netcoreapp2.1\JsonReaders.csproj.CoreCompileInputs.cache
+C:\Users\samuel.babalola\Documents\Visual Studio 2017\Dev\JsonReader\JsonReaders\obj\Debug\netcoreapp2.1\JsonReaders.AssemblyInfoInputs.cache
+C:\Users\samuel.babalola\Documents\Visual Studio 2017\Dev\JsonReader\JsonReaders\obj\Debug\netcoreapp2.1\JsonReaders.AssemblyInfo.cs
+C:\Users\samuel.babalola\Documents\Visual Studio 2017\Dev\JsonReader\JsonReaders\obj\Debug\netcoreapp2.1\JsonReaders.csprojAssemblyReference.cache
+C:\Users\samuel.babalola\Documents\Visual Studio 2017\Dev\JsonReader\JsonReaders\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\samuel.babalola\Documents\Visual Studio 2017\Dev\JsonReader\JsonReaders\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\samuel.babalola\Documents\Visual Studio 2017\Dev\JsonReader\JsonReaders\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\samuel.babalola\Documents\Visual Studio 2017\Dev\JsonReader\JsonReaders\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\samuel.babalola\Documents\Visual Studio 2017\Dev\JsonReader\JsonReaders\bin\Debug\netcoreapp2.1\JsonReaders.runtimeconfig.json
+C:\Users\samuel.babalola\Documents\Visual Studio 2017\Dev\JsonReader\JsonReaders\bin\Debug\netcoreapp2.1\JsonReaders.runtimeconfig.dev.json
+C:\Users\samuel.babalola\Documents\Visual Studio 2017\Dev\JsonReader\JsonReaders\bin\Debug\netcoreapp2.1\JsonReaders.pdb
+C:\Users\samuel.babalola\Documents\Visual Studio 2017\Dev\JsonReader\JsonReaders\obj\Debug\netcoreapp2.1\JsonReaders.dll
+C:\Users\samuel.babalola\Documents\Visual Studio 2017\Dev\JsonReader\JsonReaders\obj\Debug\netcoreapp2.1\JsonReaders.pdb
+C:\Users\samuel.babalola\Documents\Visual Studio 2017\Dev\JsonReader\JsonReaders\bin\Debug\netcoreapp2.1\appsettings.json
